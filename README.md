@@ -1,1 +1,1 @@
-# LSTM-Model-Prediciton
+# LSTM-Model-Prediciton- The model is created with tensorflow and keras. Model Sequential has been follows to predict the words in LSTM model. I have enclose to predict more than 20 words and sucessfully make the prediction.
